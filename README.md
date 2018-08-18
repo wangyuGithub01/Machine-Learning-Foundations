@@ -1,4 +1,4 @@
-# Machine Learning Foundations 
+# Machine Learning Foundations （机器学习基石，Prof.林轩田）
 ## Coursera link: 
 (1) Part 1: https://www.coursera.org/learn/ntumlone-mathematicalfoundations \
 (2) Part 2: https://www.coursera.org/learn/ntumlone-algorithmicfoundations/home/welcome
