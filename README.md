@@ -9,5 +9,5 @@ https://www.bilibili.com/video/av1624332?from=search&seid=9917519384575749492
 
 
 # Machine Learning Techniques 
-视频：https://www.bilibili.com/video/av12469267?from=search&seid=4836647643930895682
+视频：https://www.bilibili.com/video/av12469267?from=search&seid=4836647643930895682 \
 课件&hw：https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/
